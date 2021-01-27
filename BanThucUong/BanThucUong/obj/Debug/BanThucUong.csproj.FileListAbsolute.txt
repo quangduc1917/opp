@@ -1,0 +1,7 @@
+D:\BanThucUong\BanThucUong\bin\Debug\BanThucUong.exe.config
+D:\BanThucUong\BanThucUong\bin\Debug\BanThucUong.exe
+D:\BanThucUong\BanThucUong\bin\Debug\BanThucUong.pdb
+D:\BanThucUong\BanThucUong\obj\Debug\BanThucUong.csprojAssemblyReference.cache
+D:\BanThucUong\BanThucUong\obj\Debug\BanThucUong.csproj.CoreCompileInputs.cache
+D:\BanThucUong\BanThucUong\obj\Debug\BanThucUong.exe
+D:\BanThucUong\BanThucUong\obj\Debug\BanThucUong.pdb
